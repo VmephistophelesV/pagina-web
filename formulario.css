@@ -1,0 +1,27 @@
+.div-principal { border: 1px solid black;
+    height: 400px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+.div-principal form {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 40%;
+}
+.brnEntrar {
+    width: 50px;
+
+}
+.imput-box {
+    margin: 5px;
+}
+.imagem {
+    display: flex;
+    justify-content: center;
+    margin: ;
+}
